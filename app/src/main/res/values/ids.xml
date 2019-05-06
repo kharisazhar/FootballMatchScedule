@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="event_name" type="id" />
+    <item name="rv_match_listlist_match" type="id" />
+    <item name="last_event_name" type="id" />
+    <item name="list_match_last" type="id" />
+    <item name="home_score" type="id" />
+    <item name="away_score" type="id" />
+    <item name="date_event" type="id" />
+    <item name="detail_home_score" type="id" />
+    <item name="detail_away_score" type="id" />
+    <item name="badge_home" type="id" />
+    <item name="badge_away" type="id" />
+    <item name="detail_home_name" type="id" />
+    <item name="detail_away_name" type="id" />
+    <item name="detail_goals_home" type="id" />
+    <item name="detail_goals_away" type="id" />
+    <item name="detail_home_shoots" type="id" />
+    <item name="detail_away_shoots" type="id" />
+    <item name="vs__" type="id" />
+    <item name="vs" type="id" />
+    <item name="rv_team_fav" type="id" />
+    <item name="toolbar" type="id" />
+    <item name="spinner_league" type="id" />
+    <item name="rv_match_list" type="id" />
+    <item name="list_match" type="id" />
+    <item name="spinner_team" type="id" />
+    <item name="list_team" type="id" />
+    <item name="team_badge" type="id" />
+    <item name="team_name" type="id" />
+    <item name="toolbar_team" type="id" />
+    <item name="nested_detail" type="id" />
+    <item name="player_badge" type="id" />
+    <item name="player_name" type="id" />
+    <item name="rv_player" type="id" />
+    <item name="time_event" type="id" />
+    <item name="home_goal_keeper" type="id" />
+    <item name="away_goal_keeper" type="id" />
+    <item name="home_defence" type="id" />
+    <item name="away_defence" type="id" />
+    <item name="home_mildfield" type="id" />
+    <item name="away_mildfield" type="id" />
+    <item name="spinner_next_match" type="id" />
+</resources>

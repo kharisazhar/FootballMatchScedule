@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_number": "966154188491",
+    "firebase_url": "https://jadwal-bola-da6c8.firebaseio.com",
+    "project_id": "jadwal-bola-da6c8",
+    "storage_bucket": "jadwal-bola-da6c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966154188491:android:2387bc93e97704e7",
+        "android_client_info": {
+          "package_name": "com.simalakama.kharisazhar.jadwalbola"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966154188491-031pbnlli9rg5liir8f3b8dpcqbd1tor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo0xEOPU_qHl4IH7U4SjQLiNK5Ec1pw-c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-5911122231890460~2869190829"
+    }
+  ],
+  "configuration_version": "1"
+}

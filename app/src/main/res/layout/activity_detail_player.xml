@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".player.DetailPlayerActivity">
+
+    <ImageView
+        android:id="@+id/img_detail_player"
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        android:scaleType="fitXY"
+        android:src="@mipmap/ic_launcher" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/dimen_16">
+
+        <TextView
+            android:id="@+id/tv_detail_player_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/lorem"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" />
+
+        <TextView
+            android:id="@+id/tv_detail_player_team"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/lorem"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" />
+
+        <TextView
+            android:id="@+id/tv_detail_player_position"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/position"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium" />
+
+        <TextView
+            android:id="@+id/tv_detail_player_desc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="@string/lorem" />
+    </LinearLayout>
+
+
+</LinearLayout>
