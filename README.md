@@ -19,9 +19,7 @@ https://www.dicoding.com/academies/55
 * [Espresso](https://developer.android.com/training/testing/espresso) - The framework make instrumentation test easy
 
 
-```
 Thanks a lot [Dicoding Indonesia](https://www.dicoding.com/)
-```
 
 # Output 
 <img src="https://user-images.githubusercontent.com/30395764/57217592-3c53d400-701d-11e9-8466-25909f850a6e.png" width=300/>
